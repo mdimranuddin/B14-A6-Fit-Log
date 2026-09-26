@@ -9,7 +9,7 @@ export default function Home() {
   const [sortBy, setSortBy] = useState("duration");
 
   useEffect(() => {
-    fetch("https://api.abcz.workers.dev/api/fitlog")
+    fetch("https://api.api-store.workers.dev/api/fitlog")
       .then((r) => r.json())
       .then((data) => { setWorkouts(data); setLoading(false); })
       .catch(() => setLoading(false));
