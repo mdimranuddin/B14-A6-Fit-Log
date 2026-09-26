@@ -32,8 +32,8 @@ A dark, no-nonsense gym companion built with Next.js. Pick a lift, lock it into 
 
 ## 📡 API
 
-- All workouts: `https://api.abcz.workers.dev/api/fitlog`
-- Single workout: `https://api.abcz.workers.dev/api/fitlog/:id`
+- All workouts: https://api.api-store.workers.dev/api/fitlog
+- Single workout: https://api.api-store.workers.dev/api/fitlog/:id
 
 ## 🏃 Getting Started
 
