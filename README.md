@@ -4,7 +4,7 @@ A dark, no-nonsense gym companion built with Next.js. Pick a lift, lock it into 
 
 ## 🚀 Live Demo
 
-- **Live Link:** https://b14-a6-fit-log-umber.vercel.app
+- **Live Link:** https://b14-a6-fit-log.vercel.app
 - **GitHub:** https://github.com/mdimranuddin/B14-A6-Fit-Log
 
 ## 🛠️ Technologies Used
